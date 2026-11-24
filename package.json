@@ -1,0 +1,9 @@
+{
+  "name": "baymo-photobooth",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Baymo exhibition photobooth: the kiosk page plus a small server that hosts each strip for QR-code download",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
